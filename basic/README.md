@@ -1,5 +1,5 @@
-[![Virtual Hardware Target](https://raw.githubusercontent.com/ARM-software/VHT-GetStarted/badges/.github/badges/basic.yml.vht.svg)](https://github.com/ARM-software/VHT-GetStarted/actions/workflows/basic.yml)
-![Unittest Results](https://raw.githubusercontent.com/ARM-software/VHT-GetStarted/badges/.github/badges/basic.yml.unittest.svg)
+[![Virtual Hardware Target](https://raw.githubusercontent.com/vovamarch/VHTGetStarted-copy/badges/.github/badges/basic.yml.vht.svg)](https://github.com/vovamarch/VHTGetStarted-copy/actions/workflows/basic.yml)
+![Unittest Results](https://raw.githubusercontent.com/vovamarch/VHTGetStarted-copy/badges/.github/badges/basic.yml.unittest.svg)
 
 # VHT Basic Example
 
